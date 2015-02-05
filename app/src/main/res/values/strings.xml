@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paint</string>
+
+    <string name="goma">Goma</string>
+    <string name="formas">Formas</string>
+    <string name="borrar">Borrar</string>
+    <string name="pincel">Pincel</string>
+    <string name="linea">Linea</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="guardar">Guardar</string>
+    <string name="colorFondo">Color Fondo</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="color">Color</string>
+    <string name="grosor">Grosor</string>
+
+</resources>

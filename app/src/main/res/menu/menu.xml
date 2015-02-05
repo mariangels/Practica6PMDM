@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal"
+    android:icon="@android:drawable/ic_menu_add">
+
+
+    <item android:id="@+id/goma"
+        android:title="@string/goma"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/pincel"
+        android:title="@string/pincel"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/linea"
+        android:title="@string/linea"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/cuadrado"
+        android:title="@string/cuadrado"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/circulo"
+        android:title="@string/circulo"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+
+
+
+    <item android:id="@+id/nuevo"
+        android:title="@string/nuevo"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_add" />
+
+    <item android:id="@+id/guardar"
+        android:title="@string/guardar"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_save" />
+
+    <item android:id="@+id/borrar"
+        android:title="@string/borrar"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete" />
+
+    <item android:id="@+id/color"
+        android:title="@string/color"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_edit" />
+
+    <item android:id="@+id/grosor"
+        android:title="@string/grosor"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/star_off" />
+
+
+</menu>
